@@ -16,7 +16,7 @@ In order to be considered for the Android position, you mush complete the follow
 1. Fork this repository (if you don't know how to do that, Google is your friend)
 2. Create a *source* folder to contain your code. 
 3. In the *source* directory, please create an Android app that accomplishes the following:
-	- Download parking data from the [AndroidChallenge](https://github.com/TeamTechnologiesLLC/AndroidChallenge) repository 
+	- Download parking data from the [AndroidChallenge](https://github.com/TeamTechnologiesLLC/AndroidChallenge) repository at runtime
 	- Create a MapView and display polygons with the parking lots on the map. 
 4. Commit and Push your code to your new repository
 5. Send us a pull request, we will review your code and get back to you
